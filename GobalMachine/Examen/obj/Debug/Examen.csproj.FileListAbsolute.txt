@@ -7,3 +7,9 @@ c:\users\m.fernanda\documents\visual studio 2015\Projects\Examen\Examen\obj\Debu
 C:\Users\M.Fernanda\Desktop\Examen\Examen\bin\Debug\Examen.exe.config
 C:\Users\M.Fernanda\Desktop\Examen\Examen\obj\Debug\Examen.exe
 C:\Users\M.Fernanda\Desktop\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\M.Fernanda\Desktop\GlobalMachine\GobalMachine\Examen\bin\Debug\Examen.exe.config
+C:\Users\M.Fernanda\Desktop\GlobalMachine\GobalMachine\Examen\obj\Debug\Examen.exe
+C:\Users\M.Fernanda\Desktop\GlobalMachine\GobalMachine\Examen\obj\Debug\Examen.pdb
+C:\Users\M.Fernanda\Desktop\GlobalMachine\GobalMachine\Examen\bin\Debug\Examen.exe
+C:\Users\M.Fernanda\Desktop\GlobalMachine\GobalMachine\Examen\bin\Debug\Examen.pdb
+C:\Users\M.Fernanda\Desktop\GlobalMachine\GobalMachine\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
